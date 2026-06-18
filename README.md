@@ -1,36 +1,28 @@
-# Mastering Generative Ai Ibm
+# IBM Generative AI Practice
 
-IBM generative AI course notebooks and practice work.
+IBM generative AI course notebooks and LangChain/document-loader practice.
 
-## Overview
+## Purpose
 
-This is a AI/ML learning and prototype repository. It is part of my broader GitHub portfolio showing hands-on work across AI, web development, automation, and software engineering fundamentals.
+This repository captures structured GenAI learning from IBM material. It is useful as a record of coursework and practice with document loading and LLM-adjacent tooling.
 
-## What It Demonstrates
+## What This Shows
 
-- Practical implementation and experimentation rather than only theory.
-- Familiarity with the repository's core stack and development workflow.
-- Iterative learning through small projects, exercises, or prototypes.
+- Course-based GenAI practice
+- Document loader concepts
+- Notebook experiments
 
-## Tech Stack
+## Stack
 
-- Primary language: Jupyter Notebook
-- Topics: generative-ai, ibm, jupyter-notebook
-
-## Repository Structure
-
-- Top-level folders: Document_loader_using_langchain
-- Top-level files: README.md
-
-## Status
-
-This is a learning/prototype repository kept public to show practice, experimentation, and growth.
+- Python
+- Jupyter Notebook
+- Generative AI
 
 ## Next Improvements
 
-- Add screenshots, sample outputs, or a short demo where relevant.
-- Expand setup instructions for local development.
-- Document the main learning outcome, architecture, and edge cases.
+- Add module-by-module notes
+- Add key takeaways
+- Add safe sample outputs
 
 ## Author
 
